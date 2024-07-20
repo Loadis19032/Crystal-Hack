@@ -1,0 +1,32 @@
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal hack.csproj.AssemblyReference.cache
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal hack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal hack.AssemblyInfoInputs.cache
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal hack.AssemblyInfo.cs
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal hack.csproj.CoreCompileInputs.cache
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Crystal hack.exe
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Crystal hack.deps.json
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Crystal hack.runtimeconfig.json
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Crystal hack.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Crystal hack.pdb
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\ClickableTransparentOverlay.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\ImGui.NET.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\SharpGen.Runtime.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\SharpGen.Runtime.COM.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\swed64.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Vortice.D3DCompiler.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Vortice.Direct3D11.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Vortice.DirectX.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Vortice.DXGI.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\Vortice.Mathematics.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\runtimes\linux-x64\native\libcimgui.so
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\runtimes\osx\native\libcimgui.dylib
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\runtimes\win-arm64\native\cimgui.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\runtimes\win-x64\native\cimgui.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\bin\Debug\net8.0\runtimes\win-x86\native\cimgui.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal .17E0C63D.Up2Date
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal hack.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\refint\Crystal hack.dll
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal hack.pdb
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\Crystal hack.genruntimeconfig.cache
+C:\Users\Привет\source\repos\Crystal hack\Crystal hack\obj\Debug\net8.0\ref\Crystal hack.dll
